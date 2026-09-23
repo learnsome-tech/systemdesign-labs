@@ -1,0 +1,7 @@
+raw a day           16.0 GB
+raw a year        5840.0 GB
+with indexes      7592.0 GB
+times 3 copies   22776.0 GB
+  4 shards ->   5694.0 GB each
+  8 shards ->   2847.0 GB each
+ 16 shards ->   1423.5 GB each

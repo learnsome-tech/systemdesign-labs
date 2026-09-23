@@ -1,0 +1,6 @@
+case         trigger                 fix
+stampede     hot key TTL expires     single flight + serve stale
+stale read   write races the fill    versioned keys, or write through
+mass expiry  bulk warm, equal TTL    TTL = base + random jitter
+
+all three are invisible under low load and obvious at peak

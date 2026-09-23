@@ -1,0 +1,5 @@
+request deadline          300 ms
+edge and decode             20 ms
+profile and permissions    80 ms, parallel
+write and response         150 ms
+margin                      50 ms

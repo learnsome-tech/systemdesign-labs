@@ -1,0 +1,10 @@
+ordered by wall clock:
+  98  yes, seven
+  99  yes, seven
+  100  are we still on
+  102  bringing the deck
+  104  are we still on
+ordered by conversation sequence:
+  1  are we still on
+  2  yes, seven
+  3  bringing the deck

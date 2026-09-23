@@ -1,0 +1,4 @@
+topic partitions:  t-one-a  t-one-b  t-two  t-three
+consumer group:       c1       c2      c3       c4
+
+lag per partition -> quota -> shed low value samples

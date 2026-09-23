@@ -1,0 +1,4 @@
+context      read heavy, ninety reads to one write, one region
+decision     one relational database, one read replica
+rejected     a document store: we need multi row transactions
+consequence  replica lag is now visible to users after a write

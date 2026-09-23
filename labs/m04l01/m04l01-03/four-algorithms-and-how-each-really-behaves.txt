@@ -1,0 +1,5 @@
+round robin        take turns; ignores service time entirely
+least connections  send to the shortest queue you can see
+two random choices pick two at random, send to the lighter one
+consistent hashing hash the key onto a ring of virtual nodes
+weighted variants  scale any of the above by backend capacity

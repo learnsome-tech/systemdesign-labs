@@ -1,0 +1,5 @@
+command   "charge card for order 7742"   -> one owner, one attempt
+event     "order 7742 was placed"        -> N subscribers, any number
+
+producer of a command knows the consumer by name
+producer of an event does not, and that is the point

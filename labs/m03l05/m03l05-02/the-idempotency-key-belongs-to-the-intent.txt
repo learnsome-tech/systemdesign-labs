@@ -1,0 +1,5 @@
+request:  key = checkout seven
+store:    key, request hash, status, result
+first:    create payment, save result
+retry:    return saved result
+changed:  same key, new request -> conflict

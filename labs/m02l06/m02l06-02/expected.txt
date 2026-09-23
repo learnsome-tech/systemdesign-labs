@@ -1,0 +1,5 @@
+t0 leader 3 follower 2
+t1 write acknowledged 3
+t1 refresh from follower 2
+t2 after replication 3
+safe route after write: leader

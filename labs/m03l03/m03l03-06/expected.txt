@@ -1,0 +1,10 @@
+tick  arrived  depth  oldest age
+   3       45     30           0
+   6       45     58           1
+   9       45     85           3
+  12       16     79           3
+  15       12    103           5
+  18       45    129           5
+  21       13    121           7
+  24       17    126           6
+worst depth 129, worst age 7: still rising

@@ -1,0 +1,4 @@
+orders by customer:  hash(customer_id) -> shard
+orders by time:      day plus hash(customer_id)
+chat messages:        conversation_id -> shard
+metrics:              tenant plus time bucket -> shard

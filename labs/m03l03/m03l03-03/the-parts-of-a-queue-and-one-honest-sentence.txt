@@ -1,0 +1,6 @@
+producer -> [ queue ] -> consumer group -> ack -> deleted
+                 |              |
+                 |              +- no ack in time -> redelivered
+                 +- N failed deliveries -> dead letter queue
+
+depth stable = buffering   depth rising = not enough consumers

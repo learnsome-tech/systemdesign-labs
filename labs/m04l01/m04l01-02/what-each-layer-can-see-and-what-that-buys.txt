@@ -1,0 +1,7 @@
+                 layer four            layer seven
+sees             ip, port, flags       path, headers, method
+decision         per connection        per request
+can retry        no                    yes, if idempotent
+knows cost       no                    yes: a search costs more
+overhead         near zero             parse and buffer
+terminates TLS   no                    usually yes

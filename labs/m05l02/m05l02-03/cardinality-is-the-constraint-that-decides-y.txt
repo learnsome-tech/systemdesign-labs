@@ -1,0 +1,7 @@
+labels on http_requests_total            series      verdict
+service, endpoint, status                   ~300     fine
++ customer_id, 200,000 customers      60,000,000     no
++ raw URL path, unbounded                unbounded    no
++ customer_tier, 3 values                   ~900     fine
+
+rule: metrics answer how many. logs answer which one.

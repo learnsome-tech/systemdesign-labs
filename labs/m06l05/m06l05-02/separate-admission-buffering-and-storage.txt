@@ -1,0 +1,3 @@
+agent -> gateway -> bounded queue -> partitions ->
+                         recent store -> query
+                         archive blob -> retention

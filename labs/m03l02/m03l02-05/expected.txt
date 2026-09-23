@@ -1,0 +1,3 @@
+flat ttl  peak 12 in a tick,  3 busy ticks
+jittered  peak  3 in a tick, 19 busy ticks
+same keys, same total work, spread instead of stacked

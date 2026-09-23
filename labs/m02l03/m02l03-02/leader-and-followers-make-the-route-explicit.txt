@@ -1,0 +1,5 @@
+client --write--> leader --replicate--> follower one
+   |                  |
+   +--read----------- follower two, if lag is safe
+
+new leader after failure: fence the old one first

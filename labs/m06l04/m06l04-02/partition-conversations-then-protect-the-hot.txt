@@ -1,0 +1,4 @@
+append:  conversation id -> one ordered partition
+deliver: recipient id -> gateway registry
+large room: append once, fan out in bounded batches
+offline: per user inbox, replay on reconnect

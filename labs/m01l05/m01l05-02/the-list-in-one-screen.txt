@@ -1,0 +1,10 @@
+L1 cache reference                 1 ns
+main memory reference            100 ns
+compress one KB                2,000 ns    2 us
+read one MB from memory        3,000 ns    3 us
+SSD random read              100,000 ns  100 us
+read one MB from SSD         500,000 ns  0.5 ms
+round trip in a datacentre   500,000 ns  0.5 ms
+read one MB from disk      5,000,000 ns    5 ms
+disk seek                 10,000,000 ns   10 ms
+round trip across an ocean         -     150 ms

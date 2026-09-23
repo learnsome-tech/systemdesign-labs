@@ -1,0 +1,9 @@
+busy   response time versus an idle system
+ 50%      2.0x   ##
+ 60%      2.5x   ##
+ 70%      3.3x   ###
+ 80%      5.0x   #####
+ 90%     10.0x   ##########
+ 95%     20.0x   ####################
+ 99%    100.0x   ########################################
+the knee is real: ten points of load, ten times the wait

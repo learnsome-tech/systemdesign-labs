@@ -1,0 +1,7 @@
+queue A took  r1 r3 r5 r7 r9
+queue B took  r2 r4 r6 r8 r10
+queue left    [] -> nothing left to replay
+log   A read  10 records, offset 10
+log   B read  10 records, offset 10
+log   C joins late, replays 10 records from offset 0
+log   retains  r1 r2 r3 r4 r5 r6 r7 r8 r9 r10

@@ -1,0 +1,5 @@
+consumer lag = log end offset - committed offset
+
+lag  1,204,331 records  ->  at 4,000/s that is 5 m 01 s behind
+retention 7 d           ->  you may replay a week, not a week and an hour
+compaction on key       ->  latest value per key survives forever

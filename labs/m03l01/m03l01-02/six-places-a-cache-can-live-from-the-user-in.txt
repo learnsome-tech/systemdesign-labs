@@ -1,0 +1,6 @@
+browser         a copy you cannot recall     whole round trip saved
+CDN edge        public bytes near the user   tens of ms saved
+reverse proxy   whole responses, one site    one hop removed
+app local map   per process, per pod         nanoseconds
+shared Redis    one copy, every server sees  ~1 ms and a dependency
+db buffer pool  pages, inside the engine     already yours

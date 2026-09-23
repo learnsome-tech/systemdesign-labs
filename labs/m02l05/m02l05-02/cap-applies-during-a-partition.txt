@@ -1,0 +1,4 @@
+normal network:      consistency and availability
+network partition:   choose consistent or available
+
+CAP says nothing about latency, durability, or every failure

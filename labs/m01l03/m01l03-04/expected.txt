@@ -1,0 +1,6 @@
+mean read qps         6944
+mean write qps         463
+peak read qps        20833
+peak write qps        1389
+read write ratio        15 to one
+servers at peak       10.4 -> 11 with none spare

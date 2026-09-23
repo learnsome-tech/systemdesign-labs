@@ -1,0 +1,7 @@
+spike at 12:00:00
+ 12:00:30  metric scraped and averaged
+ 12:01:00  threshold breached, scale up decided
+ 12:01:30  instances scheduled
+ 12:03:00  process started, connections open
+ 12:06:00  cache warm, actually useful
+ 12:09:00  spike over. capacity arrives. cost begins.

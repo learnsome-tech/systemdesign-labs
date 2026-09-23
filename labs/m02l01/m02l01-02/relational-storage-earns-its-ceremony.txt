@@ -1,0 +1,4 @@
+orders      customers      payments
+  | customer_id  | id          | order_id
+  |--------------|-------------| amount
+  join on keys, commit together, enforce constraints

@@ -1,0 +1,5 @@
+throughput alone     67 nodes
+one zone down       102 nodes, 34 per zone
+normal utilisation   39.2%
+with a zone lost     58.8%
+headroom            6 months at 7% growth

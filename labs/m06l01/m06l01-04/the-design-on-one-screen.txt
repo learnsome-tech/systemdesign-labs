@@ -1,0 +1,8 @@
+buyer
+  |  browse                  hold and buy            confirm
+  v                              v                      v
+seat map cache             booking API           worker and queue
+  |                              |                      |
+read replica  ------------>  LEADER  seats  holds  orders payments
+                                 |
+                        payment gateway, called with an idempotency key

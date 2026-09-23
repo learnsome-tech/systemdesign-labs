@@ -1,0 +1,6 @@
+load balancer        1 ms | running total   1 ms
+app server work     20 ms | running total  21 ms
+cache read           1 ms | running total  22 ms
+database read        8 ms | running total  30 ms
+cross region call   80 ms | running total 110 ms
+budget 200 ms, headroom left 90 ms

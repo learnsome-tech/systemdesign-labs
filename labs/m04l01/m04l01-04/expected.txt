@@ -1,0 +1,3 @@
+round robin mean wait   28.0  worst  151  peak  155
+least conns mean wait    2.6  worst   22  peak   63
+two choices mean wait    9.3  worst   55  peak  100

@@ -1,0 +1,7 @@
+hit%   mean ms   origin qps   vs 99% hit
+ 99      1.39          208      1.0x
+ 95      2.95         1041      5.0x
+ 90      4.90         2083     10.0x
+ 80      8.80         4166     20.0x
+ 50     20.50        10416     50.1x
+origin must be sized for the miss rate, not the hit rate

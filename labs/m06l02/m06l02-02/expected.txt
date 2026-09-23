@@ -1,0 +1,7 @@
+buyers at sale open         500,000
+seats available              50,000
+buyers per seat                  10
+commit capacity                 300 a second
+served in the minute         18,000
+overload at the door             28 times
+seconds to sell the room        167

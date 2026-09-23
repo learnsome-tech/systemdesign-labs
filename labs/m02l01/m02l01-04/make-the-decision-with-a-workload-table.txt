@@ -1,0 +1,4 @@
+entity       hot read             invariant             model
+checkout     order plus payment   never charge twice     relational
+profile      profile by user      owns its fields        document
+search item  text and filters    index may lag           separate index

@@ -1,0 +1,6 @@
+mean       71.9 ms
+median     40.5 ms
+p95        59.2 ms
+p99      1388.0 ms
+max      1998.1 ms
+only 3.1% of requests are slower than the mean

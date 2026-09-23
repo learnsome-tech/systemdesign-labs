@@ -1,0 +1,5 @@
+fact                 owner          projection
+account, payment     relational     none
+session, lease       key value       dashboard
+product text         relational     search
+photo bytes          blob           thumbnail metadata

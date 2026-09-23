@@ -1,0 +1,4 @@
+   1 calls in one request ->   1.0 percent are slow
+   5 calls in one request ->   4.9 percent are slow
+  20 calls in one request ->  18.2 percent are slow
+ 100 calls in one request ->  63.4 percent are slow

@@ -1,0 +1,4 @@
+requirements --> estimate --> data model --> high level design
+     ^                                                 |
+     |                                                 v
+     +------ revise <--- failure modes <--- one deep dive

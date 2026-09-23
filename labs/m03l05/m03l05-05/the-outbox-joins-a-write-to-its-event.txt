@@ -1,0 +1,8 @@
+transaction:
+  update order status
+  insert outbox event
+relay:
+  publish event
+  mark sent
+consumer:
+  unique event id, then apply

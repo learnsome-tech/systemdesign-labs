@@ -1,0 +1,9 @@
+                 queue                  log
+delivery         one consumer wins      every consumer reads
+on ack           message is deleted     an offset advances
+retention        until acknowledged     by time, or by size
+replay           not possible           seek to an offset
+add a consumer   steals work            costs nothing
+ordering         best effort            total, within a partition
+health metric    queue depth            consumer lag
+familiar shape   RabbitMQ, SQS          Kafka, Kinesis

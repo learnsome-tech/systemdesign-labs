@@ -1,0 +1,8 @@
+phone --- socket ---> gateway A --+
+phone --- socket ---> gateway B --+---> message service
+                                         |         |
+   registry: user -> gateway  <----------+         v
+   key value store, short lived               conversation store
+                                          partitioned by conversation
+                                                   |
+   per user inbox  <-------------------------------+  offline delivery

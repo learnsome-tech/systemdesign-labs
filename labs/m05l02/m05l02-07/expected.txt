@@ -1,0 +1,4 @@
+objective 99.9% -> 43.2 budget minutes
+errors 0.05%: spent   7.2 min, burn  0.5x, 50.0 days left
+errors 0.20%: spent  28.8 min, burn  2.0x,  5.0 days left
+errors 0.40%: spent  57.6 min, burn  4.0x, budget gone

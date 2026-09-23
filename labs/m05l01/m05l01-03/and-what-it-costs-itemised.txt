@@ -1,0 +1,7 @@
+                    monolith           four services
+call                function call      network round trip
+failure of a call   impossible         timeout, retry, partial
+transaction         one commit         a saga, or nothing
+test one behaviour  run the suite      stand up four things
+debug one request   a stack trace      a distributed trace
+deploy              one pipeline       four, and an order

@@ -1,0 +1,2 @@
+no protection: sold 12 oversold  9 retried  0
+version check: sold  3 oversold  0 retried  9

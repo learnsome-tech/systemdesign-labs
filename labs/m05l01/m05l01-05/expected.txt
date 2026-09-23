@@ -1,0 +1,4 @@
+monolith        40.00 ms   99.9000% up     43.2 min down a month
+four services   42.00 ms   99.6006% up    172.5 min down a month
+latency cost:  5.0% slower
+downtime cost: 4.0 times more minutes

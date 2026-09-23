@@ -1,0 +1,6 @@
+ 99.0 percent ->   432.0 min a month
+ 99.9 percent ->    43.2 min a month
+99.95 percent ->    21.6 min a month
+99.99 percent ->     4.3 min a month
+five services at 99.9 in series -> 99.50 percent
+which allows 216 min a month

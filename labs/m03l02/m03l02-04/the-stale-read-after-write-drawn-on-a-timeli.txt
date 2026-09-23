@@ -1,0 +1,5 @@
+reader  |-miss-|-db read: v1-|.....stalled.....|-set key = v1->
+writer               |-write v2-|-delete key-|
+cache      empty          empty       empty        v1 until TTL
+
+the reader was correct at every step, and the result is wrong

@@ -1,0 +1,6 @@
+messages a day           8,000,000,000
+messages a second               92,592
+peak, three times mean         277,776
+sockets at the peak         20,000,000
+gateway pods needed                333
+sockets per message              216.0

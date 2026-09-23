@@ -1,0 +1,7 @@
+id            16 bytes   uuid
+author_id     16 bytes   uuid
+created_at     8 bytes   timestamp
+body         256 bytes   short text, truncated
+flags          4 bytes
+-------------------------
+sum          300 bytes   call it 400 with overhead

@@ -1,0 +1,4 @@
+requesters per tick: 9 6 10 4 5 12 5 9 4 12 7 4 ...
+origin calls, no single flight: 30
+origin calls, single flight:    4
+the herd multiplied one miss by 7

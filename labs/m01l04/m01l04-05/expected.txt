@@ -1,0 +1,4 @@
+json egress      0.67 gigabit a second
+image egress     4.17 gigabit a second
+total            4.83 gigabit a second
+images at 95 percent cache hit   0.21 gigabit a second

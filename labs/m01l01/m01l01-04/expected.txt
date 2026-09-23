@@ -1,0 +1,7 @@
+  5 min in | requirements and scope | 5 min
+ 10 min in | estimation | 5 min
+ 18 min in | api and data model | 8 min
+ 30 min in | high level design | 12 min
+ 40 min in | one deep dive | 10 min
+ 45 min in | failure modes | 5 min
+unspent: 0 min

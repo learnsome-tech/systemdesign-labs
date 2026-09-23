@@ -1,0 +1,7 @@
+call error
+call error
+call error
+fast fail
+fast fail
+fast fail
+fast fail

@@ -1,0 +1,11 @@
+  crowd
+    |
+[ waiting room ]  admits at the commit rate
+    |
+booking API ----> shard per event:  e-101   e-102   e-103
+    |                                  |       |       |
+    |                               LEADER   LEADER  LEADER
+    |                                  |
+browse --> read replica  <-- replication lag --+
+    |
+    +--> queue --> email, ticket render, seat map refresh

@@ -1,0 +1,4 @@
+plan             sold         lost   wait  contention
+open door      13,537    1,140,966     0s        667x
+bounded queue  50,000    1,080,803    65s          1x
+waiting room   50,000      700,803  1332s          1x

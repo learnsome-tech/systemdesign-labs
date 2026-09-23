@@ -1,0 +1,6 @@
+strategy       read path          write path           the bill
+cache aside    app reads on miss  write db, delete key miss latency
+read through   cache fetches it   write db             cache owns origin
+write through  always warm        write both, in sync  slower writes
+write behind   always warm        queue, drain later   a data loss window
+refresh ahead  rarely ever misses warm before expiry   wasted work

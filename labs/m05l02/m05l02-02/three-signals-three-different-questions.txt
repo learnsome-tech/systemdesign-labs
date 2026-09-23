@@ -1,0 +1,6 @@
+question                                    signal
+is the whole thing healthy right now?       metric
+what happened to this one order?            log
+where did the two seconds go?               trace
+how many are affected?                      metric
+why did this specific call return a 503?    log plus trace

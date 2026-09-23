@@ -1,0 +1,6 @@
+requirement                    what it rules out
+---------------------------    -----------------------------
+p ninety nine under 100 ms     a synchronous cross region call
+never lose a payment           write behind caching of payments
+reads may be 5 s stale         a strongly consistent read path
+ninety reads to one write      an unreplicated single database

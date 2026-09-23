@@ -1,0 +1,7 @@
+topic orders, 3 partitions, partition key = customer id
+p0:  o7  o12  o19    <- customer 41, in order, forever
+p1:  o3  o8   o22    <- customer 12
+p2:  o1  o5   o30    <- customer 88
+
+across partitions there is no order at all, only within one
+parallelism is capped at the partition count

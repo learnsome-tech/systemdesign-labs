@@ -1,0 +1,6 @@
+seats on sale                 50,000
+purchases a second               417
+seat map reads a second       12,500
+rows held at once            125,000
+daily mean, same show           0.58
+spike over mean                  720 times
