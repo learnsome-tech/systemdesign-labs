@@ -1,0 +1,19 @@
+{
+  "lab": "m04l05-02",
+  "lesson": "m04l05",
+  "title": "A shedder keeps the useful work alive",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 shed.py",
+  "main": "shed.py",
+  "files": [
+    "shed.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

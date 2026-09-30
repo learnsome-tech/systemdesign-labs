@@ -1,0 +1,17 @@
+{
+  "lab": "m02l01-02",
+  "lesson": "m02l01",
+  "title": "Relational storage earns its ceremony",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "relational-storage-earns-its-ceremony.txt",
+  "files": [
+    "relational-storage-earns-its-ceremony.txt"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

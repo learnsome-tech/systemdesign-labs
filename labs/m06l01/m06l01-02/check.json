@@ -1,0 +1,19 @@
+{
+  "lab": "m06l01-02",
+  "lesson": "m06l01",
+  "title": "Estimate the spike, because the mean is a lie here",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 spike.py",
+  "main": "spike.py",
+  "files": [
+    "spike.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

@@ -1,0 +1,19 @@
+{
+  "lab": "m04l03-02",
+  "lesson": "m04l03",
+  "title": "Jitter separates the retry wave",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 jitter.py",
+  "main": "jitter.py",
+  "files": [
+    "jitter.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

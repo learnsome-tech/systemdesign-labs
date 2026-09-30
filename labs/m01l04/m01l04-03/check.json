@@ -1,0 +1,19 @@
+{
+  "lab": "m01l04-03",
+  "lesson": "m01l04",
+  "title": "Rate, retention, indexes, replicas, shards",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 storage.py",
+  "main": "storage.py",
+  "files": [
+    "storage.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

@@ -1,0 +1,19 @@
+{
+  "lab": "m05l03-06",
+  "lesson": "m05l03",
+  "title": "A capacity plan you can defend",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 plan.py",
+  "main": "plan.py",
+  "files": [
+    "plan.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

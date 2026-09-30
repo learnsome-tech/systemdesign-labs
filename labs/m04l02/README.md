@@ -1,19 +1,32 @@
-# Timeouts, And Avoiding Cascaded Failure
+# m04l02 · Timeouts, And Avoiding Cascaded Failure
 
-**Course**: [Scalable System Design & Distributed Architecture](https://learnsome.tech/courses/systemdesign-course)  
-**Module**: Resilience And Traffic Management  
-**Lesson**: `m04l02`
+Module 4: Resilience And Traffic Management · lesson 4.2 · Pro · [Open the lesson](https://learnsome.tech/learn/systemdesign-course/m04l02)
 
-## Links
+**Goal:** You can budget timeouts from a request deadline, propagate the remaining budget across hops, and prevent a slow dependency from consuming every worker.
 
-- [Watch lesson](https://learnsome.tech/courses/systemdesign-course/watch?lesson=m04l02)
-- [Handbook](https://learnsome.tech/courses/systemdesign-course/book#lesson-4-2)
-- [Exercises](EXERCISES.md)
+## Labs
 
-## Artifact directories
+| Lab | What it is | Check |
+| --- | --- | --- |
+| [m04l02-02](m04l02-02/) | Budget a chain from the outside in | Read along |
 
-- [`m04l02-02/`](m04l02-02/)
+## Exercises
+
+Open exercises from the lesson, to try on your own. They have no answer files: work them out, and use the labs above as reference.
+
+### Find the unbounded wait
+
+1. Draw one request path and mark every serial and parallel hop.
+2. Give the path a deadline and subtract each reservation.
+3. Name the queue or connection that must be bounded.
+
+## Check yourself
+
+- Why should a deadline cross service boundaries?
+- How do retries make a slow dependency worse?
+- What should be bounded besides request duration?
+- Which trace field explains a timeout on an otherwise healthy hop?
 
 ---
 
-© LearnSome.tech · support@iwantto.learnsome.tech
+[Course README](../../README.md) · [Scalable System Design & Distributed Architecture on LearnSome.tech](https://learnsome.tech/courses/systemdesign-course)

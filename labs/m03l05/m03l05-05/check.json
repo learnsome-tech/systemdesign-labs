@@ -1,0 +1,17 @@
+{
+  "lab": "m03l05-05",
+  "lesson": "m03l05",
+  "title": "The outbox joins a write to its event",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "the-outbox-joins-a-write-to-its-event.txt",
+  "files": [
+    "the-outbox-joins-a-write-to-its-event.txt"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

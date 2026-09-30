@@ -1,0 +1,19 @@
+{
+  "lab": "m01l02-04",
+  "lesson": "m01l02",
+  "title": "An availability target is a downtime budget",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 availability.py",
+  "main": "availability.py",
+  "files": [
+    "availability.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

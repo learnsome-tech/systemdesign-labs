@@ -1,0 +1,19 @@
+{
+  "lab": "m06l03-06",
+  "lesson": "m06l03",
+  "title": "Same five arrivals, ordered two different ways",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 ordering.py",
+  "main": "ordering.py",
+  "files": [
+    "ordering.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

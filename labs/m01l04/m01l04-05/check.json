@@ -1,0 +1,19 @@
+{
+  "lab": "m01l04-05",
+  "lesson": "m01l04",
+  "title": "Bandwidth: the bill nobody estimates",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 bandwidth.py",
+  "main": "bandwidth.py",
+  "files": [
+    "bandwidth.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

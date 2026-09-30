@@ -1,0 +1,19 @@
+{
+  "lab": "m03l02-05",
+  "lesson": "m03l02",
+  "title": "Mass expiry, and what jitter costs you",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 jitter_ttl.py",
+  "main": "jitter_ttl.py",
+  "files": [
+    "jitter_ttl.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

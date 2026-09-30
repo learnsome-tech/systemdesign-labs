@@ -1,0 +1,19 @@
+{
+  "lab": "m02l06-02",
+  "lesson": "m02l06",
+  "title": "A read can lose a write without losing data",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 consistency_race.py",
+  "main": "consistency_race.py",
+  "files": [
+    "consistency_race.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

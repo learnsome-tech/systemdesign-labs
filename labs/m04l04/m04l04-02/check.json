@@ -1,0 +1,19 @@
+{
+  "lab": "m04l04-02",
+  "lesson": "m04l04",
+  "title": "The breaker changes the shape of failure",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 breaker.py",
+  "main": "breaker.py",
+  "files": [
+    "breaker.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

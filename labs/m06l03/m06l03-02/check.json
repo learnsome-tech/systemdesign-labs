@@ -1,0 +1,19 @@
+{
+  "lab": "m06l03-02",
+  "lesson": "m06l03",
+  "title": "Estimate connections, then everything follows",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 connections.py",
+  "main": "connections.py",
+  "files": [
+    "connections.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

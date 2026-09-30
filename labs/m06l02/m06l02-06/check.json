@@ -1,0 +1,17 @@
+{
+  "lab": "m06l02-06",
+  "lesson": "m06l02",
+  "title": "The scaled design, and where the lag becomes visible",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "the-scaled-design-and-where-the-lag-becomes-.txt",
+  "files": [
+    "the-scaled-design-and-where-the-lag-becomes-.txt"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

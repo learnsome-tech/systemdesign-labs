@@ -1,0 +1,19 @@
+{
+  "lab": "m06l02-04",
+  "lesson": "m06l02",
+  "title": "Three doors, one crowd, and the numbers each produces",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 admission.py",
+  "main": "admission.py",
+  "files": [
+    "admission.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

@@ -1,0 +1,19 @@
+{
+  "lab": "m03l01-04",
+  "lesson": "m03l01",
+  "title": "Latency slides, origin load falls off a cliff",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 cache_math.py",
+  "main": "cache_math.py",
+  "files": [
+    "cache_math.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

@@ -1,0 +1,17 @@
+{
+  "lab": "m05l02-02",
+  "lesson": "m05l02",
+  "title": "Three signals, three different questions",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "three-signals-three-different-questions.txt",
+  "files": [
+    "three-signals-three-different-questions.txt"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

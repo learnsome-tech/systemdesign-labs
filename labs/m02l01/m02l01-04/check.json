@@ -1,0 +1,17 @@
+{
+  "lab": "m02l01-04",
+  "lesson": "m02l01",
+  "title": "Make the decision with a workload table",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "make-the-decision-with-a-workload-table.txt",
+  "files": [
+    "make-the-decision-with-a-workload-table.txt"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

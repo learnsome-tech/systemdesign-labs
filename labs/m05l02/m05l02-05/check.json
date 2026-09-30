@@ -1,0 +1,19 @@
+{
+  "lab": "m05l02-05",
+  "lesson": "m05l02",
+  "title": "What an average hides, in one sample",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 percentiles.py",
+  "main": "percentiles.py",
+  "files": [
+    "percentiles.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

@@ -1,0 +1,19 @@
+{
+  "lab": "m01l05-06",
+  "lesson": "m01l05",
+  "title": "Fan out turns a good tail into a bad experience",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 tail.py",
+  "main": "tail.py",
+  "files": [
+    "tail.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

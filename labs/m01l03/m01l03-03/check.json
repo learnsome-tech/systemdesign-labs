@@ -1,0 +1,17 @@
+{
+  "lab": "m01l03-03",
+  "lesson": "m01l03",
+  "title": "Two rounding rules that make this mental arithmetic",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "two-rounding-rules-that-make-this-mental-ari.txt",
+  "files": [
+    "two-rounding-rules-that-make-this-mental-ari.txt"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

@@ -1,0 +1,19 @@
+{
+  "lab": "m05l02-07",
+  "lesson": "m05l02",
+  "title": "The error budget, and the burn rate that spends it",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 budget.py",
+  "main": "budget.py",
+  "files": [
+    "budget.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

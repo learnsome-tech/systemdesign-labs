@@ -1,0 +1,17 @@
+{
+  "lab": "m06l06-02",
+  "lesson": "m06l06",
+  "title": "Partition consumers by work, not by host count",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "partition-consumers-by-work-not-by-host-coun.txt",
+  "files": [
+    "partition-consumers-by-work-not-by-host-coun.txt"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

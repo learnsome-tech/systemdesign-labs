@@ -1,0 +1,17 @@
+{
+  "lab": "m03l04-04",
+  "lesson": "m03l04",
+  "title": "Ordering exists inside a partition and nowhere else",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "ordering-exists-inside-a-partition-and-nowhe.txt",
+  "files": [
+    "ordering-exists-inside-a-partition-and-nowhe.txt"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

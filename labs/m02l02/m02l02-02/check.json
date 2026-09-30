@@ -1,0 +1,17 @@
+{
+  "lab": "m02l02-02",
+  "lesson": "m02l02",
+  "title": "Key value is narrow by design",
+  "mode": "read-along",
+  "runner": null,
+  "command": null,
+  "main": "key-value-is-narrow-by-design.txt",
+  "files": [
+    "key-value-is-narrow-by-design.txt"
+  ],
+  "stdin": null,
+  "expected": null,
+  "grading": null,
+  "requires": [],
+  "note": "It is a listing to read alongside the lesson, not a program to run."
+}

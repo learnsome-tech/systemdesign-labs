@@ -1,0 +1,19 @@
+{
+  "lab": "m04l01-04",
+  "lesson": "m04l01",
+  "title": "Round robin is fine until service times vary",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 balance.py",
+  "main": "balance.py",
+  "files": [
+    "balance.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

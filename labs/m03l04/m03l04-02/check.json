@@ -1,0 +1,19 @@
+{
+  "lab": "m03l04-02",
+  "lesson": "m03l04",
+  "title": "The same ten records through both shapes",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 shapes.py",
+  "main": "shapes.py",
+  "files": [
+    "shapes.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}

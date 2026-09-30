@@ -1,0 +1,19 @@
+{
+  "lab": "m01l01-04",
+  "lesson": "m01l01",
+  "title": "Time is the real constraint: spend it on purpose",
+  "mode": "graded",
+  "runner": "python",
+  "command": "python3 agenda.py",
+  "main": "agenda.py",
+  "files": [
+    "agenda.py"
+  ],
+  "stdin": null,
+  "expected": "expected.txt",
+  "grading": "lines",
+  "requires": [
+    "python3"
+  ],
+  "note": null
+}
